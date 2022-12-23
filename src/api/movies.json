@@ -1,0 +1,109 @@
+{
+  "movie": [
+    {
+      "name": "The Godfather",
+      "rating": "9.2",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "overview": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Interstellar",
+      "rating": 8.6,
+      "overview": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "The Dark Knight",
+      "rating": 9,
+      "overview": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "imageUrl": "https://cdn.prime1studio.com/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmmdc-02_a19.jpg"
+    },
+    {
+      "name": "The Shawshank Redemption",
+      "rating": "9.3",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/e/e6/Esaretin-bedeli.jpg",
+      "overview": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Avatar",
+      "rating": 7.9,
+      "overview": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "I Am Legend",
+      "rating": 7.2,
+      "overview": "Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure",
+      "imageUrl": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/df/74/66/df746664-c17e-563c-298c-61146f670100/00030206687828.rgb.jpg/1200x1200bf-60.jpg"
+    },
+    {
+      "id": 7,
+      "name": "The Avengers",
+      "rating": 8.1,
+      "overview": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0NjY0NzE4OTReQTJeQWpwZ15BbWU3MDczODg2Nzc@._V1_SX1777_CR0,0,1777,999_AL_.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Forrest Gump",
+      "rating": 8.8,
+      "overview": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+      "imageUrl": "https://i.ytimg.com/vi/hf_lCA-T99c/movieposter_en.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Inception",
+      "rating": 8.8,
+      "overview": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+      "imageUrl": "https://play-lh.googleusercontent.com/kSeBtvMBvS9P9jSwP-bVNmrH8yANJeKZrbxUIiw6zSOpRibxBn1IP7PEHrDeoIz0AmQPddbRPMEgh8KL8ohd"
+    },
+    {
+      "id": 10,
+      "name": " Goodfellas",
+      "rating": 8.7,
+      "overview": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Saving Private Ryan",
+      "rating": 8.6,
+      "overview": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": 12,
+      "name": "The Pianist",
+      "rating": 8.5,
+      "overview": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+      "imageUrl": "https://tr.web.img3.acsta.net/c_310_420/pictures/bzp/03/28359.jpg"
+    },
+    {
+      "id": 13,
+      "name": "The Lion King",
+      "rating": 8.5,
+      "overview": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+      "imageUrl": "https://m.media-amazon.com/images/I/51daUXx2AqL._AC_SY1000_.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Joker",
+      "rating": 8.4,
+      "overview": "A mentally troubled stand-up comedian embarks on a downward spiral that leads to the creation of an iconic villain.",
+      "imageUrl": "https://tr.web.img4.acsta.net/pictures/19/09/11/16/43/1511539.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Eternal Sunshine of the Spotless Mind",
+      "rating": 8.3,
+      "overview": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories for ever.",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_.jpg"
+    }
+  ]
+}
